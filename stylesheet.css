@@ -1,0 +1,76 @@
+/* Background Image */
+.bg {
+    /* Center and scale the image nicely */
+    background-size: contain;
+    background-color: black;
+    background-image: url(business_image.jpg);
+    background-repeat: no-repeat;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 1);
+    background: transparent
+}
+
+/* My Mission Statement */
+.values {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: 3px 4px 5px white;
+    margin-top: 5%;
+}
+
+/* Mission Title */
+.mission {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: white;
+}
+
+/* Paragraph About The Mission Statement */
+.my-mission {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: white;
+}
+
+/* Vision Title */
+.vision {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: white;
+}
+
+/* About Us Title */
+.about us statement, h1 {
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: 3px 4px 5px white;
+    font-size: 50px;
+}
+
+/* About Us Paragraph */
+.about company, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: white;
+    font-size: 25px;
+}
+
+/* form first name */
+.first name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: white;
+}
+
+/* form last name */
+.form-group {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-shadow: white;
+}
